@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## NETLIFY LINK: (https://react-todo-kalyan.netlify.app/)
 
 In the project directory, you can run:
 
